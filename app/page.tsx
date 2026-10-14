@@ -2,6 +2,24 @@
 const projects = [
   {
     number: "01",
+    title: "JANA Studio",
+    description:
+      "Designed and developed a premium bilingual website for an independent web design and digital studio. Features refined branding, responsive layouts, service presentations, portfolio integration, and English-Chinese language support.",
+    tech: ["Next.js", "React", "TypeScript", "Tailwind CSS", "Vercel"],
+    href: "https://jana-studio-website.vercel.app",
+    github: "https://github.com/jannathdu/JANA-Studio-Website",
+  },
+  {
+    number: "02",
+    title: "HAVEN COFFEE",
+    description:
+      "A premium bilingual cafe website concept featuring elegant editorial design, a responsive coffee menu, image gallery, brand storytelling, and an English-Chinese interface.",
+    tech: ["Next.js", "React", "TypeScript", "Tailwind CSS", "Vercel"],
+    href: "https://jana-haven-coffee.vercel.app",
+    github: "https://github.com/jannathdu/JANA-Haven-Coffee",
+  },
+  {
+    number: "03",
     title: "China Seen | 看见中国",
     description:
       "A multilingual China travel exploration platform featuring an interactive map of 34 provincial-level regions, destination discovery, personal travel tracking, wishlists, and progress visualization.",
@@ -10,7 +28,7 @@ const projects = [
     github: "https://github.com/jannathdu/China-Seen",
   },
   {
-    number: "02",
+    number: "04",
     title: "Smart Expense Tracker",
     description:
       "A responsive web application for tracking income, expenses, and financial activity through a clean, user-friendly interface.",
@@ -18,7 +36,7 @@ const projects = [
     href: "https://github.com/jannathdu/smart-expense-tracker",
   },
   {
-    number: "03",
+    number: "05",
     title: "AI Research Paper Assistant",
     description:
       "An AI-powered application that turns academic papers into clear summaries, contributions, methodology explanations, keywords, and research insights.",
@@ -26,7 +44,7 @@ const projects = [
     href: "https://github.com/jannathdu/ai-research-paper-assistant",
   },
   {
-    number: "04",
+    number: "06",
     title: "QuantumRouteDoctor",
     description:
       "A quantum-network diagnostic and routing support system that identifies link issues and recommends optimized routing strategies.",
