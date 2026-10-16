@@ -4,7 +4,7 @@ const projects = [
     number: "01",
     title: "JANA Studio",
     description:
-      "Designed and developed a premium bilingual website for an independent web design and digital studio. Features refined branding, responsive layouts, service presentations, portfolio integration, and English-Chinese language support.",
+      "Designed and developed a premium, responsive bilingual (English/Chinese) website for JANA Studio, an independent web design and digital studio. Built interactive USD/RMB pricing, project showcases, client inquiry and consultation booking forms, and SEO-optimized pages. Integrated Formspree, Google Search Console, and Vercel Analytics, achieving 100/100 Lighthouse scores in the latest tests across performance, accessibility, best practices, and SEO.",
     tech: ["Next.js", "React", "TypeScript", "Tailwind CSS", "Vercel"],
     href: "https://jana-studio-website.vercel.app",
     github: "https://github.com/jannathdu/JANA-Studio-Website",
