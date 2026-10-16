@@ -1,0 +1,25 @@
+﻿# Dependencies
+/node_modules/
+
+# Build outputs
+/dist/
+/.next/
+/.vinext/
+/out/
+
+# Local helper scripts and backups
+/*.py
+*.bak
+*.backup
+
+# Environment and local configuration
+.env
+.env.*
+!.env.example
+.vercel/
+.wrangler/
+
+# Miscellaneous
+.DS_Store
+*.tsbuildinfo
+npm-debug.log*
